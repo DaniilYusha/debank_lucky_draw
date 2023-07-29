@@ -254,12 +254,7 @@
 
   statisticsElement.appendChild(github);
 
-  const telegram = document.createElement("a");
-  telegram.href = "https://t.me/whoisyusha";
-  telegram.textContent = "Telegram ❤️\n";
-
   statisticsElement.appendChild(document.createElement("br"));
-  statisticsElement.appendChild(telegram);
 
   const switchButton = document.createElement("button");  
 
