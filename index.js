@@ -1,3 +1,18 @@
+// ==UserScript==
+// @name         debank_lucky_draw
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  Soft which provides an opportunity to join the raffles (Lucky Draw), retweet, trust posts and so on...
+// @author       DaniilYusha
+// @match        *://*debank.com/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=debank.com
+// @updateURL        https://raw.githubusercontent.com/DaniilYusha/debank_lucky_draw/main/index.js
+// @downloadURL      https://raw.githubusercontent.com/DaniilYusha/debank_lucky_draw/main/index.js
+// @supportURL       https://github.com/DaniilYusha/debank_lucky_draw/issues
+// @homepageURL      https://github.com/DaniilYusha/debank_lucky_draw
+// @grant        none
+// ==/UserScript==
+
 ( () => {
   'use strict';
 
